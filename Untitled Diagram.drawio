@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2022-06-27T03:10:15.603Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Safari/537.36" etag="ZnG51aBVVkgUCBerSxPV" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-27T05:48:50.783Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Safari/537.36" etag="uuoGVoxEsjeZHgQVWCtj" version="20.0.3" type="github">
   <diagram id="Um2bCbRl7i3hkUubH0Ci" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="GFS6zfg3jTIN2dfsKaxb-4" value="AWS Cloud" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud;strokeColor=#858B94;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#858B94;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="35" y="120" width="780" height="680" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
